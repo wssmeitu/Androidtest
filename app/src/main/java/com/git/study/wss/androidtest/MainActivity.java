@@ -13,5 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
         TextView tv_one = findViewById(R.id.tv_one);
         tv_one.setText("the develop is chang two ");
+
+        tv_one.setText("代码回滚");
     }
 }
