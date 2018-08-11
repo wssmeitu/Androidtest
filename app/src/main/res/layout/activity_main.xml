@@ -15,6 +15,7 @@
         android:text="this is git test at develop" />
 
     <TextView
+        android:id="@+id/tv_two"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textColor="#333333"
